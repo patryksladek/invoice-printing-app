@@ -46,7 +46,7 @@ Do poprawnego działania programu niezbędna jest instalacja systemu enova365 w 
 ### Argumenty wywołania programu
 
 - **--id**      &emsp;&emsp;&emsp;&emsp;&nbsp; Identyfikator faktury.
-- **--pattern** &emsp;&nbsp;&nbsp;&nbsp; Nazwy wzorca wydruku.
+- **--pattern** &emsp;&nbsp;&nbsp;&nbsp; Nazwa wzorca wydruku.
 - **--path**    &emsp;&emsp;&emsp; Ścieżka do folderu, w którym zostanie zapisany plik PDF.
 
 
